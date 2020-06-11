@@ -1,0 +1,8 @@
+{
+    "name": "my-awesome-package",
+    "version": "1.0.0",
+    "dependencies": {
+        "steam-user": "^4.5.0",
+        "steam-totp": "^2.1.0"
+    }
+}

@@ -1,0 +1,23 @@
+================================
+REQUIREMENTS
+================================
+*NodeJS v11.3.0 or latest [https://nodejs.org/en/download/current/]
+*Any Text Editor 
+
+
+================================
+BEFORE YOU STARTS
+================================
+*Open the 'config' file using any text editor and enter your id and pass over there, including the idle message
+
+
+================================
+HOW TO RUN
+================================
+*Just double left click 'RUN ME' and you are good to go.
+
+
+================================
+HOW TO STOP
+================================
+*Press ctrl+c and enter 'Y' or 'y' and you are done.
